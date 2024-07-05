@@ -66,6 +66,10 @@ Employee Management App is a web application designed to manage employee records
 - **Description**: Delete an employee by ID.
 - **Example**: `http://localhost:8080/api/v1/employees/1`
 
+### PostMan Collection
+
+- **APIs Collection Link**:  [Here](https://red-trinity-337536.postman.co/workspace/New-Team-Workspace~4ff21367-757b-4758-a3fc-78ac2bda0853/collection/26639580-1b1472ad-33c7-42a9-957b-e90c03780993?action=share&creator=26639580)
+
 ## Frontend UI
 
 The frontend of this application is built using React and Bootstrap. It provides a user interface to interact with the backend APIs seamlessly.
