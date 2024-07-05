@@ -70,6 +70,11 @@ Employee Management App is a web application designed to manage employee records
 
 The frontend of this application is built using React and Bootstrap. It provides a user interface to interact with the backend APIs seamlessly.
 
+### Sample Image
+
+![Image 1](https://github.com/samratghosh291/Employee-Management/blob/main/frontend/public/image/Screenshot%20(327).png)
+![Image 2](https://github.com/samratghosh291/Employee-Management/blob/main/frontend/public/image/Screenshot%20(328).png)
+
 ## How to Run
 
 ### Prerequisites
