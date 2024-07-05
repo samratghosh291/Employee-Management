@@ -82,7 +82,7 @@ The frontend of this application is built using React and Bootstrap. It provides
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/samratghosh291/Employee-Management.git
    cd employee-management-app
    ```
 
